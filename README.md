@@ -11,3 +11,17 @@ VANIA CAROLINA ASPILCUETA SEREY
 ALEJANDRA NORA NAVARRO VELIZ
 
 JESUS EDUARDO GAMBOA UNSIHUAY
+
+## List Artist
+
+1. Shakira
+
+2. The Killers
+
+## Movies
+
+1. Interestelar
+
+2. Intensamente 2
+
+3. El señor de los anillos
