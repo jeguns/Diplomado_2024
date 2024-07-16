@@ -29,3 +29,11 @@ JESUS EDUARDO GAMBOA UNSIHUAY
 ## Actualización
 
 Práctica 16 - 07 - 2024
+
+## Cursos
+
+Introducción a la ciencia de datos
+
+Técnicas de programación
+
+Estrategias de muestreo
