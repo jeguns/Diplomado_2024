@@ -38,4 +38,7 @@ Técnicas de programación
 
 Estrategias de muestreo
 
-Matemáticas
+Álgebra lineal
+
+Análisis de regresión
+
