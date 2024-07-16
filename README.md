@@ -26,19 +26,13 @@ JESUS EDUARDO GAMBOA UNSIHUAY
 
 3. El señor de los anillos
 
-## Actualización
+## Ciudades
 
-Práctica 16 - 07 - 2024
+1. Lima
 
-## Cursos
+2. Arequipa
 
-Introducción a la ciencia de datos
+3. Trujillo
 
-Técnicas de programación
-
-Estrategias de muestreo
-
-Álgebra lineal
-
-Análisis de regresión
+4. Tacna
 
