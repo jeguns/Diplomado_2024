@@ -37,3 +37,7 @@ Introducción a la ciencia de datos
 Técnicas de programación
 
 Estrategias de muestreo
+
+Álgebra lineal
+
+Análisis de regresión
