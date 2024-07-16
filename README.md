@@ -41,3 +41,4 @@ Estrategias de muestreo
 Álgebra lineal
 
 Análisis de regresión
+
